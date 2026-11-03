@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff2a9d?style=for-the-badge&labelColor=12002f" alt="Status online">
 
 <br />
-
+<br />
 
 <em>Improving as I go :)</em>
 
@@ -46,12 +46,12 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 
 ## `04 // TECH STACK`
 
-**Languages:** JavaScript · TypeScript · Python · HTML · CSS  
-**Frontend:** React · Next.js · Tailwind CSS  
+**Languages:** HTML · CSS · JavaScript · Python · Java · SQL · C#
+**Frontend:** React
 **Backend:** Node.js · Express · REST APIs  
-**Databases:** PostgreSQL · MongoDB · SQLite  
-**Tools:** Git · GitHub · VS Code · Docker  
-**Cloud & DevOps:** AWS · Vercel · GitHub Actions
+**Databases:** MongoDB  
+**Tools:** Git · GitHub · VS Code · AI Agents  
+**Cloud & DevOps:**  · GitHub · Vercel  · Render
 
 ## `04 // GITHUB ACTIVITY`
 
