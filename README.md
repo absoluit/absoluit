@@ -39,19 +39,44 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  PROJECT 01  ▸  Personal portfolio web application               ║
-║  PROJECT 02  ▸  Deck Builder Game                                ║
+║  PROJECT 01  ▸  Personal portfolio web application             ║
+║  PROJECT 02  ▸  Deck Builder Game                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## `04 // TECH STACK`
+## `03 // TECH STACK`
 
-**Languages:** HTML · CSS · JavaScript · Python · Java · SQL · C#
-**Frontend:** React
-**Backend:** Node.js · Express · REST APIs  
-**Databases:** MongoDB  
-**Tools:** Git · GitHub · VS Code · AI Agents  
-**Cloud & DevOps:**  · GitHub · Vercel  · Render
+### Languages
+
+![HTML](https://img.shields.io/badge/HTML5-12002f?style=for-the-badge&logo=html5&logoColor=ff2a9d)
+![CSS](https://img.shields.io/badge/CSS3-12002f?style=for-the-badge&logo=css3&logoColor=ff2a9d)
+![JavaScript](https://img.shields.io/badge/JavaScript-12002f?style=for-the-badge&logo=javascript&logoColor=ff2a9d)
+![Python](https://img.shields.io/badge/Python-12002f?style=for-the-badge&logo=python&logoColor=ff2a9d)
+![Java](https://img.shields.io/badge/Java-12002f?style=for-the-badge&logo=openjdk&logoColor=ff2a9d)
+![C#](https://img.shields.io/badge/C%23-12002f?style=for-the-badge&logo=csharp&logoColor=ff2a9d)
+![SQL](https://img.shields.io/badge/SQL-12002f?style=for-the-badge&logo=postgresql&logoColor=ff2a9d)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-12002f?style=for-the-badge&logo=react&logoColor=00f5ff)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-12002f?style=for-the-badge&logo=nodedotjs&logoColor=00f5ff)
+![Express](https://img.shields.io/badge/Express-12002f?style=for-the-badge&logo=express&logoColor=00f5ff)
+![REST APIs](https://img.shields.io/badge/REST_APIs-12002f?style=for-the-badge&logo=fastapi&logoColor=00f5ff)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-12002f?style=for-the-badge&logo=mongodb&logoColor=00f5ff)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-12002f?style=for-the-badge&logo=git&logoColor=ff2a9d)
+![GitHub](https://img.shields.io/badge/GitHub-12002f?style=for-the-badge&logo=github&logoColor=ff2a9d)
+![VS Code](https://img.shields.io/badge/VS_Code-12002f?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
+![Vercel](https://img.shields.io/badge/Vercel-12002f?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-12002f?style=for-the-badge&logo=render&logoColor=00f5ff)
 
 ## `04 // GITHUB ACTIVITY`
 
