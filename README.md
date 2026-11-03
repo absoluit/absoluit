@@ -12,13 +12,9 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff2a9d?style=for-the-badge&labelColor=12002f" alt="Status online">
 
 <br />
-<br />
+
 
 <em>Improving as I go :)</em>
-
-</div>
-
-<br />
 
 ## `01 // ABOUT ME`
 
@@ -48,7 +44,40 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## `03 // GITHUB ACTIVITY`
+## `03 // Tech Stack`
+
+### `LANGUAGES`
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- C#
+
+### `FRONTEND`
+- React
+
+### `BACKEND`
+- Node.js
+- Express
+- REST APIs
+
+### `DATABASES`
+- MongoDB
+
+### `TOOLS & WORKFLOW`
+- VS Code
+- GitHub
+- IntelliJ IDEA
+- Git
+
+### `CLOUD & DEVOPS`
+- AWS
+- Vercel
+- GitHub Actions
+- Render
+
+## `04 // GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -58,11 +87,26 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 
 </div>
 
-<br />
+## `05 // CONNECT WITH ME`
 
 <div align="center">
 
-## `04 // END OF TRANSMISSION`
+<a href="https://github.com/absoluit">
+  <img src="https://img.shields.io/badge/GitHub-absoluit-12002f?style=for-the-badge&logo=github&logoColor=00f5ff" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/teagan-couto-4a461a207">
+  <img src="https://img.shields.io/badge/LinkedIn-teagan_couto-12002f?style=for-the-badge&logo=linkedin&logoColor=00f5ff" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/tteagannn">
+  <img src="https://img.shields.io/badge/Instagram-@tteagannn-12002f?style=for-the-badge&logo=instagram&logoColor=00f5ff" alt="Instagram">
+</a>
+<a href="mailto:teagan.couto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-teagan.couto@gmail.com-12002f?style=for-the-badge&logo=gmail&logoColor=00f5ff" alt="Email">
+</a>
+
+</div>
+
+## `06 // END OF TRANSMISSION`
 
 <em>Thanks for stopping by. Keep exploring. Keep creating. ✨</em>
 
