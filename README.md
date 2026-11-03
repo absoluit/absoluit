@@ -49,7 +49,7 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 ### Languages
 
 ![HTML](https://img.shields.io/badge/HTML5-12002f?style=for-the-badge&logo=html5&logoColor=ff2a9d)
-![CSS](https://img.shields.io/badge/CSS3-12002f?style=for-the-badge&logo=css3&logoColor=ff2a9d)
+![CSS](https://img.shields.io/badge/CSS3-12002f?style=for-the-badge&logo=css&logoColor=ff2a9d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-12002f?style=for-the-badge&logo=javascript&logoColor=ff2a9d)
 ![Python](https://img.shields.io/badge/Python-12002f?style=for-the-badge&logo=python&logoColor=ff2a9d)
 ![Java](https://img.shields.io/badge/Java-12002f?style=for-the-badge&logo=openjdk&logoColor=ff2a9d)
@@ -77,6 +77,7 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 ![VS Code](https://img.shields.io/badge/VS_Code-12002f?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
 ![Vercel](https://img.shields.io/badge/Vercel-12002f?style=for-the-badge&logo=vercel&logoColor=ffffff)
 ![Render](https://img.shields.io/badge/Render-12002f?style=for-the-badge&logo=render&logoColor=00f5ff)
+![Copilot](https://img.shields.io/badge/AI_Tools-12002f?style=for-the-badge&logo=copilot&logoColor=00f5ff)
 
 ## `04 // GITHUB ACTIVITY`
 
