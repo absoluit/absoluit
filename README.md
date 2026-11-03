@@ -39,43 +39,19 @@ I enjoy turning visions to reality. This profile is a collection of what I do, w
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║  PROJECT 01  ▸  Personal portfolio web application                 ║
-║  PROJECT 02  ▸  Deck Builder Game                                  ║
+║  PROJECT 01  ▸  Personal portfolio web application               ║
+║  PROJECT 02  ▸  Deck Builder Game                                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## `03 // Tech Stack`
+## `04 // TECH STACK`
 
-### `LANGUAGES`
-- HTML
-- CSS
-- JavaScript
-- Python
-- Java
-- C#
-
-### `FRONTEND`
-- React
-
-### `BACKEND`
-- Node.js
-- Express
-- REST APIs
-
-### `DATABASES`
-- MongoDB
-
-### `TOOLS & WORKFLOW`
-- VS Code
-- GitHub
-- IntelliJ IDEA
-- Git
-
-### `CLOUD & DEVOPS`
-- AWS
-- Vercel
-- GitHub Actions
-- Render
+**Languages:** JavaScript · TypeScript · Python · HTML · CSS  
+**Frontend:** React · Next.js · Tailwind CSS  
+**Backend:** Node.js · Express · REST APIs  
+**Databases:** PostgreSQL · MongoDB · SQLite  
+**Tools:** Git · GitHub · VS Code · Docker  
+**Cloud & DevOps:** AWS · Vercel · GitHub Actions
 
 ## `04 // GITHUB ACTIVITY`
 
